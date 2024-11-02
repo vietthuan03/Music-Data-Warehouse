@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_ETL_Music", "SSIS_ETL_Music.dtproj", "{6CE764C2-430C-4F0B-B57A-42D8A1490A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE764C2-430C-4F0B-B57A-42D8A1490A66}.Development|Default.ActiveCfg = Development
+		{6CE764C2-430C-4F0B-B57A-42D8A1490A66}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3266CF3D-4955-4CCD-800B-D431D1379ED4}
+	EndGlobalSection
+EndGlobal
